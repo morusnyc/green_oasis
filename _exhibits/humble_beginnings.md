@@ -3,7 +3,7 @@ layout: exhibit
 title: 'From Humble Beginnings'
 author:
 publish_date: 2021-12-10
-permalink: /exhibits/b/
+permalink: /exhibits/humble_beginnings/
 ---
 
 EARLY DAYS 
