@@ -1,131 +1,131 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/obj21/manifest.json",
+  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/obj21/manifest.json",
   "@type": "sc:Manifest",
   "label": "obj21",
-  "thumbnail": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_00/full/250,/0/default.jpg",
+  "thumbnail": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_00/full/250,/0/default.jpg",
   "viewingDirection": "left-to-right",
   "viewingHint": "individuals",
   "sequences": [
     {
-      "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/sequence/obj21_00.json",
+      "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/sequence/obj21_00.json",
       "@type": "sc:Sequence",
       "canvases": [
         {
           "@type": "sc:Canvas",
-          "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_00.json",
+          "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_00.json",
           "label": "Page 1",
           "width": 1643,
           "height": 2538,
-          "thumbnail": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_00/full/250,/0/default.jpg",
+          "thumbnail": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_00/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/annotation/obj21_00.json",
+              "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/annotation/obj21_00.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_00/full/full/0/default.jpg",
+                "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_00/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_00",
+                  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_00",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 1643,
                 "height": 2538
               },
-              "on": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_00.json"
+              "on": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_00.json"
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_01.json",
+          "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_01.json",
           "label": "Page 2",
           "width": 3277,
           "height": 2538,
-          "thumbnail": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_01/full/250,/0/default.jpg",
+          "thumbnail": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_01/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/annotation/obj21_01.json",
+              "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/annotation/obj21_01.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_01/full/full/0/default.jpg",
+                "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_01/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_01",
+                  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_01",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 3277,
                 "height": 2538
               },
-              "on": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_01.json"
+              "on": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_01.json"
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_02.json",
+          "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_02.json",
           "label": "Page 3",
           "width": 3274,
           "height": 2537,
-          "thumbnail": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_02/full/250,/0/default.jpg",
+          "thumbnail": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_02/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/annotation/obj21_02.json",
+              "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/annotation/obj21_02.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_02/full/full/0/default.jpg",
+                "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_02/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_02",
+                  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_02",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 3274,
                 "height": 2537
               },
-              "on": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_02.json"
+              "on": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_02.json"
             }
           ]
         },
         {
           "@type": "sc:Canvas",
-          "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_03.json",
+          "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_03.json",
           "label": "Page 4",
           "width": 1650,
           "height": 2554,
-          "thumbnail": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_03/full/250,/0/default.jpg",
+          "thumbnail": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_03/full/250,/0/default.jpg",
           "images": [
             {
               "@type": "oa:Annotation",
-              "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/annotation/obj21_03.json",
+              "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/annotation/obj21_03.json",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_03/full/full/0/default.jpg",
+                "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_03/full/full/0/default.jpg",
                 "@type": "dcterms:Image",
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_03",
+                  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_03",
                   "profile": "http://iiif.io/api/image/2/level0.json"
                 },
                 "width": 1650,
                 "height": 2554
               },
-              "on": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj21_03.json"
+              "on": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj21_03.json"
             }
           ]
         }
       ]
     }
   ],
-  "full": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_00/full/full/0/default.jpg",
-  "fullwidth": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj21_00/full/1140,/0/default.jpg"
+  "full": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_00/full/full/0/default.jpg",
+  "fullwidth": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj21_00/full/1140,/0/default.jpg"
 }

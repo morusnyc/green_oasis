@@ -1,19 +1,19 @@
 {
   "@type": "oa:Annotation",
-  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/annotation/obj23_11.json",
+  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/annotation/obj23_11.json",
   "motivation": "sc:painting",
   "resource": {
-    "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj23_11/full/full/0/default.jpg",
+    "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj23_11/full/full/0/default.jpg",
     "@type": "dcterms:Image",
     "format": "image/jpeg",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj23_11",
+      "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj23_11",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
     "width": 2547,
     "height": 3284
   },
-  "on": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj23_11.json",
+  "on": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj23_11.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"
 }

@@ -1,4 +1,4 @@
-I"p
+I"„
 <div class="search-block">
   <div class="input-group">
     <input type="text" class="form-control" id="search" name="x" placeholder="Search... " />
@@ -6,14 +6,14 @@
   <div id="results"></div>
 </div>
 
-<script type="text/javascript" src="http://localhost:4000/green_oasis/assets/elasticlunr.min.js"></script>
+<script type="text/javascript" src="https://morusnyc.github.io/green_oasis/assets/elasticlunr.min.js"></script>
 
-<script type="text/javascript" src="http://localhost:4000/green_oasis/assets/search-ui.js"></script>
+<script type="text/javascript" src="https://morusnyc.github.io/green_oasis/assets/search-ui.js"></script>
 
 <script type="text/javascript">
   var fields    = ["series_title","folder_number","title","creator","contributor","publisher","source","_date","language","type","format_1","format_2","relation","coverage","subject_1","subject_2","subject_3","copyright"];
-  var indexFile = "http://localhost:4000/green_oasis/search/index.json";
-  var url       = "http://localhost:4000/green_oasis";
+  var indexFile = "https://morusnyc.github.io/green_oasis/search/index.json";
+  var url       = "https://morusnyc.github.io/green_oasis";
 
   $(document).ready(function() {
     startSearchUI(fields, indexFile, url);

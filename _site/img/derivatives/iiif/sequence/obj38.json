@@ -1,32 +1,32 @@
 {
-  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/sequence/obj38.json",
+  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/sequence/obj38.json",
   "@type": "sc:Sequence",
   "canvases": [
     {
       "@type": "sc:Canvas",
-      "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj38.json",
+      "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj38.json",
       "label": "front",
       "width": 1212,
       "height": 1592,
-      "thumbnail": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj38/full/250,/0/default.jpg",
+      "thumbnail": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj38/full/250,/0/default.jpg",
       "images": [
         {
           "@type": "oa:Annotation",
-          "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/annotation/obj38.json",
+          "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/annotation/obj38.json",
           "motivation": "sc:painting",
           "resource": {
-            "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj38/full/full/0/default.jpg",
+            "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj38/full/full/0/default.jpg",
             "@type": "dcterms:Image",
             "format": "image/jpeg",
             "service": {
               "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj38",
+              "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj38",
               "profile": "http://iiif.io/api/image/2/level0.json"
             },
             "width": 1212,
             "height": 1592
           },
-          "on": "http://localhost:4000/green_oasis/img/derivatives/iiif/canvas/obj38.json"
+          "on": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/canvas/obj38.json"
         }
       ]
     }

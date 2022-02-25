@@ -1,14 +1,14 @@
-I"<p>Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+I",<p>Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
 
 <p>Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.</p>
 
 <div class="wax-parallax full-width inline-parallax">
-  <div class="parallax-image d-none d-md-block" style="background-image: url('http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj1_00/full/1140,/0/default.jpg');
+  <div class="parallax-image d-none d-md-block" style="background-image: url('https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj1_00/full/1140,/0/default.jpg');
   background-position: 0% 50%;"></div>
   <div class="d-block d-md-none w-100">
     <div class="image-viewer">
-  <a href="http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj1_00/full/1140,/0/default.jpg">
-    <img class="item-full-image" src="http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj1_00/full/1140,/0/default.jpg" alt="" />
+  <a href="https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj1_00/full/1140,/0/default.jpg">
+    <img class="item-full-image" src="https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj1_00/full/1140,/0/default.jpg" alt="" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
   
   <div class="parallax-caption">
     <div class="wax-inline-container">
-      Above: <a href="http://localhost:4000/green_oasis/Green_Oasis/obj1/">Draft of the "Introduction," "Activity History," and "Goals and Projections" sections from a brochure deveopment project. </a>
+      Above: <a href="https://morusnyc.github.io/green_oasis/Green_Oasis/obj1/">Draft of the "Introduction," "Activity History," and "Goals and Projections" sections from a brochure deveopment project. </a>
     </div>
   </div>
   
