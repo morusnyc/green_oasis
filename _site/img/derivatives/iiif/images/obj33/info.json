@@ -1,0 +1,42 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "http://localhost:4000/green_oasis/img/derivatives/iiif/images/obj33",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1028,
+  "height": 1314,
+  "sizes": [
+    {
+      "width": 1028,
+      "height": 1314
+    },
+    {
+      "width": 250,
+      "height": 320
+    },
+    {
+      "width": 1140,
+      "height": 1457
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

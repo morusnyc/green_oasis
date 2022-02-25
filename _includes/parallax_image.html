@@ -1,0 +1,31 @@
+{% if include.image %}
+  {% assign image = include.image %}
+{% else %}
+  {% assign item  = site[include.collection] | where: 'pid', include.pid | first %}
+  {% assign image = item.full %}
+{% endif %}
+
+{%- capture style -%}
+  background-image: url('{{ image | absolute_url }}');
+  background-position: 0% {{ include.y | default: '15%' }};
+
+  {% if include.height %}
+  height: {{ include.height }} !important;
+  {% endif %}
+{%- endcapture -%}
+
+<div class='wax-parallax full-width {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}'>
+  <div class='parallax-image d-none d-md-block' style="{{ style | strip }}"></div>
+  <div class="d-block d-md-none w-100">
+    {% include simple_image_viewer.html full_image=image %}
+  </div>
+
+
+  {% if item.description %}
+  <div class='parallax-caption'>
+    <div class='wax-inline-container'>
+      Above: <a href='{{ item.url | absolute_url }}'>{{ item.description }}</a>
+    </div>
+  </div>
+  {% endif %}
+</div>
