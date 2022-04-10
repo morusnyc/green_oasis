@@ -1,0 +1,27 @@
+I"‡<p>This collection utilizes <a href="https://journal.code4lib.org/articles/13427">FAIR data principles</a>, and as such strives to make its collections findable, accessible, interoperable and reusable. Below you can view and download the collectionâ€™s metadata table.</p>
+
+<link rel="stylesheet" type="text/css" href="http://localhost:4000/assets/datatables/datatables.css" />
+
+<script type="text/javascript" src="http://localhost:4000/assets/datatables/datatables.min.js"></script>
+
+<table id="Green_Oasis-datatable" class="datatable display"></table>
+<script>
+  $(document).ready(function () {
+    $('#Green_Oasis-datatable').DataTable({
+      data: null,
+      columns: [],
+      scrollY: 600,
+      scrollX: 600,
+      paging: false,
+      fixedHeader: false,
+      searching: false,
+      ordering:  false,
+      dom: 'Bfrtip',
+      buttons: [
+        'csvHtml5'
+      ]
+    });
+  });
+</script>
+
+:ET

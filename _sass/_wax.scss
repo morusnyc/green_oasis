@@ -72,7 +72,6 @@ header & nav bar
 
   .navbar-nav {
     .nav-item {
-      z-index: 1000000;
       background-color: $bg-color;
     }
     .nav-link {
@@ -86,7 +85,7 @@ header & nav bar
     }
     .dropdown-menu {
       background-color: $bg-color;
-      border-color: $neutral;
+      border-color: $accent-dark;
       .dropdown-item:focus {
         background-color: transparent;
       }
