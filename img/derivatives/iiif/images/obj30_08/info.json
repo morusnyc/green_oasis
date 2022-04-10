@@ -5,12 +5,12 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/obj30_08",
   "protocol": "http://iiif.io/api/image",
-  "width": 2550,
-  "height": 3300,
+  "width": 1700,
+  "height": 2200,
   "sizes": [
     {
-      "width": 2550,
-      "height": 3300
+      "width": 1700,
+      "height": 2200
     },
     {
       "width": 250,

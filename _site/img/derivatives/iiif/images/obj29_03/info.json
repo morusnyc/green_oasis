@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://morusnyc.github.io/green_oasis/img/derivatives/iiif/images/obj29_03",
+  "@id": "http://localhost:4000/img/derivatives/iiif/images/obj29_03",
   "protocol": "http://iiif.io/api/image",
   "width": 2543,
   "height": 3284,
