@@ -12,7 +12,7 @@ permalink: '/credits/'
 The archives committee at the Museum of Reclaimed Urban Space is an all volunteer team dedicated to ensuring the preservation and accessability of records and collections connected to the history of grassroots activism in the Lower East Side. 
 
 ### How to Cite this Project
-Green Oasis Community Gardens/Gilberts Garden, Inc. Records is a collaborative effort involving the [MoRUS](http://www.morusnyc.org/) archives committee in collaboration with the Green Oasis Community Gardens/Gilberts Garden, Inc. membership. We ask that any citation of this project as a whole credit John C. Harris, Stephanie Zambrana, Marco Lanier, Irene Meisel, Bryan Zehngut-Willits (E.G. Harris, Zambrana, Lanier, Meisel, Zehngut-Willits et.al., Green Oasis Community Gardens/Gilberts Garden, Inc. Records, https://morusnyc.github.io/green_oasis/)
+Green Oasis Community Gardens/Gilberts Garden, Inc. Records is a collaborative effort involving the [MoRUS](http://www.morusnyc.org/) archives committee in collaboration with the Green Oasis Community Gardens/Gilberts Garden, Inc. membership. We ask that any citation of this project as a whole credit John C. Harris, Stephanie Zambrana, Marco Lanier, and Bryan Zehngut-Willits (E.G. Harris, John C., Stephanie Zambrana, Marco Lanier, Bryan Zehngut-Willits et.al., Green Oasis Community Gardens/Gilberts Garden, Inc. Records, https://morusnyc.github.io/green_oasis/)
 
 ### How to Cite Documents from the Collection
 \[Item\], \[Folder\], \[Box\], From the Archives of Green Oasis Community Gardens/Gilberts Garden on Deposit at the Museum of Reclaimed Urban Space.
