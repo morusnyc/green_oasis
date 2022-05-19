@@ -15,7 +15,7 @@ The archives committee at the Museum of Reclaimed Urban Space is an all voluntee
 Green Oasis Community Gardens/Gilberts Garden, Inc. Records is a collaborative effort involving the [MoRUS](http://www.morusnyc.org/) archives committee in collaboration with the Green Oasis Community Gardens/Gilberts Garden, Inc. membership. We ask that any citation of this project as a whole credit John C. Harris, Stephanie Zambrana, Marco Lanier, Irene Meisel, Bryan Zehngut-Willits (E.G. Harris, Zambrana, Lanier, Meisel, Zehngut-Willits et.al., Green Oasis Community Gardens/Gilberts Garden, Inc. Records, https://morusnyc.github.io/green_oasis/)
 
 ### How to Cite Documents from the Collection
-Item, Folder, Box, From the Archives of Green Oasis Community Gardens/Gilberts Garden on Deposit at the Museum of Reclaimed Urban Space.
+\[Item\], \[Folder\], \[Box\], From the Archives of Green Oasis Community Gardens/Gilberts Garden on Deposit at the Museum of Reclaimed Urban Space.
 
 ### This Site was Built with Wax
 Wax is a minimal computing ([minicomp](https://github.com/minicomp)) project led by [Marii Nyröp](http://marii.info/). The project is currently maintained by Marii Nyröp at New York University and [Alex Gil](https://github.com/elotroalex) at Columbia University Libraries. It uses open source libraries and frameworks including [Jekyll](https://jekyllrb.com), [IIIF](http://iiif.io), [OpenSeaDragon](https://openseadragon.github.io/), [Rake](https://ruby.github.io/rake/), and [ElasticLunr](http://elasticlunr.com/). Wax builds upon work by [Peter Binkley](https://github.com/pbinkley), [David Newbury](https://github.com/workergnome), and others.
