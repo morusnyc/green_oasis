@@ -14,7 +14,7 @@ Green Oasis Community Garden was started in 1981 by life partners Norman Vallee 
 The Museum of Reclaimed Urban Space (MoRUS) is dedicated to preserving the history of grassroots activism on the Lower East Side. The following documents represent a selection from the Green Oasis Community Garden/Gilbert’s Sculpture Garden Inc. To make an appointment to view and research the collection please email John at [jharris0093@gmail.com](mailto:jharris0093@gmail.com) or [archives@morusnyc.org](mailto: archives@morusnyc.org). 
  
 
-### Selection of Objects from the Green Oasis Community Garden/Gilbert’s Sculpture Garden Inc. Collection on deposit at [MoRUS](www.morusnyc.org){:target="_blank"}.
+### Selection of Objects from the Green Oasis Community Garden/Gilbert’s Sculpture Garden Inc. Collection on deposit at [MoRUS](www.morusnyc.org){:target="_blank"}:
 
 {% include collection_gallery.html facet_by='language' collection='Green_Oasis' %}
 
