@@ -22,7 +22,7 @@ title:            'Green Oasis Community Garden/Gilberts Garden, Inc. Records'
 description:      'A Selection of documents from the Green Oasis Community Garden/Gilberts Garden, Inc. Records'
 url:              'https://morusnyc.github.io'
 baseurl:          '/green_oasis'
-copyright:        'All images owned by Green Oasis Community Garden/Gilberts Garden, Inc. and subject to copyright by Green Oasis. For permissions and reproduction rights, contact archives@morusnyc.org'
+copyright:        'All images owned by Green Oasis Community Garden/Gilberts Garden, Inc. and subject to copyright by Green Oasis. For permissions, reproduction rights, or to access full collections, contact archives@morusnyc.org. To view additional collections available at MoRUS, visit our collections page at http://www.morusnyc.org/collections/'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -141,6 +141,8 @@ footer:
       link: '/credits'
     - label: 'Contact'
       link: 'mailto:archives@morusnyc.org'
+    - label: 'Collections'
+      link: 'http://www.morusnyc.org/collections/'
   logos:
     - img: '/img/logo.png'
 
